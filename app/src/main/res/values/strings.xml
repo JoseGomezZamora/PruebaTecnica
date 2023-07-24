@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PruebaTecnica</string>
+
+    <!--MODULO DE NEW USER-->
+    <string name="title_NewUserActivity">Nuevo Usuario</string>
+    <string name="name_NewUserActivity">Nombre</string>
+    <string name="last_name_ap_NewUserActivity">Apellido Paterno</string>
+    <string name="last_name_am_NewUserActivity">Apellido Materno</string>
+    <string name="email_NewUserActivity">Correo Electronico</string>
+    <string name="date_NewUserActivity">Fecha de Nacimiento</string>
+    <string name="data_NewUserActivity">Datos</string>
+
+    <string name="addres_NewUserActivity">Calle</string>
+    <string name="number_NewUserActivity">Numero</string>
+    <string name="colonia_NewUserActivity">Colonia</string>
+    <string name="delegacion_NewUserActivity">Muicipio</string>
+    <string name="Estado_NewUserActivity">Estado</string>
+    <string name="Cp_NewUserActivity">Codigo Postal</string>
+    <string name="btnSave_NewUserActivity">Registrar</string>
+
+    <!--mesage Error-->
+    <string name="vacio_NewUserActivity">Campo Vacio</string>
+    <string name="minCharacter_NewUserActivity">Campo debe contener minimo 3 caracteres</string>
+    <string name="emailValid_NewUserActivity">Correo Invalido</string>
+    <string name="dateValid_NewUserActivity">Selecciona la fecha de nacimiento</string>
+    <string name="image_NewUserActivity">Debes seleccionar una imagen</string>
+
+    <!--MODULO DE LIST USER-->
+    <string name="title_UserListActivity">Lista de Usuarios</string>
+    <string name="search_UserListActivity">Buscar por nombre</string>
+
+</resources>
